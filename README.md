@@ -53,8 +53,8 @@ Users should be able to:
 
 ### Links
 
-- To see the solution on Frontend Mentor [click here](https://your-solution-url.com)
-- To see the live site [click here](https://your-live-site-url.com)
+- To see the solution on Frontend Mentor [click here](https://www.frontendmentor.io/solutions/tip-calculator-app-solution-L_nBQaGUXs)
+- To see the live site [click here](https://itsale-o.github.io/tip-calculator-app/)
 
 ## My process
 
